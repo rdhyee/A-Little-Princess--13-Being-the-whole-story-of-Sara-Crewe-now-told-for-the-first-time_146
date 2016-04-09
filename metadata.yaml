@@ -4,8 +4,8 @@ creator:
   author:
     agent_name: Burnett, Frances Hodgson
     aliases:
-    - Hodgson, Frances Eliza
     - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
     birthdate: 1849
     deathdate: 1924
     gutenberg_agent_id: '73'
@@ -27,8 +27,8 @@ description: "A Little Princess is a children's novel by Frances Hodgson Burnett
   \ of two Burnett novels among the Top 100, with The Secret Garden number 15.\n From\
   \ Wikipedia (CC BY-SA)."
 gutenberg_bookshelf:
-- School Stories
 - Children's Literature
+- School Stories
 gutenberg_issued: '1994-07-01'
 gutenberg_type: Text
 identifiers:
@@ -39,12 +39,12 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- !lcsh 'London (England) -- Fiction'
-- !lcc 'PZ'
+- !lcc 'PS'
 - !lcsh 'Orphans -- Fiction'
 - !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'London (England) -- Fiction'
 - !lcsh 'Schools -- Fiction'
-- !lcc 'PS'
+- !lcc 'PZ'
 - GITenberg
 title: "A Little Princess\r\nBeing the whole story of Sara Crewe now told for the\
   \ first time"
