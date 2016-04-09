@@ -1,141 +1,70 @@
-_repo: Adventures-of-Huckleberry-Finn_76
+_repo: A-Little-Princess-Being-the-whole-story-of-Sara-Crewe-now-told-for-the-first-time_146
 _version: 0.0.1
-contributor:
-  illustrator:
-    agent_name: Kemble, E. W. (Edward Windsor)
-    aliases:
-    - Kemble, Edward Windsor
-    - Kemble, E. W. (Edward Winsor)
-    birthdate: 1861
-    deathdate: 1933
-    gutenberg_agent_id: '37155'
-    url: http://www.gutenberg.org/2009/agents/37155
-    wikipedia: http://en.wikipedia.org/wiki/E._W._Kemble
-covers:
-- cover_type: archival
-  image_path: 76/76-h/images/bookcover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 76/76-h/76-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: ///public/vhost/g/gutenberg/private/publish/76/images/titlepage.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 76/images/bookcover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
-- cover_type: archival
-  image_path: 76/76-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
 creator:
   author:
-    agent_name: Twain, Mark
+    agent_name: Burnett, Frances Hodgson
     aliases:
-    - Twain, Mark (Samuel Clemens)
-    - Clemens, Samuel Langhorne
-    birthdate: 1835
-    deathdate: 1910
-    gutenberg_agent_id: '53'
-    url: http://www.gutenberg.org/2009/agents/53
-    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
-description: "Adventures of Huckleberry Finn (or, in more recent editions, The Adventures\
-  \ of Huckleberry Finn) is a novel by Mark Twain, first published in the United Kingdom\
-  \ in December 1884 and in the United States in February 1885. Commonly named among\
-  \ the Great American Novels, the work is among the first in major American literature\
-  \ to be written throughout in vernacular English, characterized by local color regionalism.\
-  \ It is told in the first person by Huckleberry \"Huck\" Finn, a friend of Tom Sawyer\
-  \ and narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective).\
-  \ It is a direct sequel to The Adventures of Tom Sawyer.\nThe book is noted for\
-  \ its colorful description of people and places along the Mississippi River. Set\
-  \ in a Southern antebellum society that had ceased to exist about 20 years before\
-  \ the work was published, Adventures of Huckleberry Finn is an often scathing satire\
-  \ on entrenched attitudes, particularly racism.\nPerennially popular with readers,\
-  \ Adventures of Huckleberry Finn has also been the continued object of study by\
-  \ literary critics since its publication. It was criticized upon release because\
-  \ of its coarse language and became even more controversial in the 20th century\
-  \ because of its perceived use of racial stereotypes and because of its frequent\
-  \ use of the racial slur \"nigger\", despite strong arguments that the protagonist\
-  \ and the tenor of the book are anti-racist.\n From Wikipedia (CC BY-SA)."
+    - Hodgson, Frances Eliza
+    - Townesend, Frances Eliza Hodgson Burnett
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: "A Little Princess is a children's novel by Frances Hodgson Burnett,\
+  \ first published as a book in 1905. It is an expanded version of the short story\
+  \ Sara Crewe: or, What Happened at Miss Minchin's, which was serialized in St. Nicholas\
+  \ Magazine from December 1887. According to Burnett, after she composed the 1902\
+  \ play A Little Un-fairy Princess based on that story, her publisher asked that\
+  \ she expand the story as a novel with \"the things and people that had been left\
+  \ out before\". The novel was published by Charles Scribner's Sons (also publisher\
+  \ of St. Nicholas) with illustrations by Ethel Franklin Betts and the full title\
+  \ A Little Princess: Being the Whole Story of Sara Crewe Now Being Told for the\
+  \ First Time.\nBased on a 2007 online poll, the U.S. National Education Association\
+  \ named the book one of its \"Teachers' Top 100 Books for Children\". In 2012 it\
+  \ was ranked number 56 among all-time children's novels in a survey published by\
+  \ School Library Journal, a monthly with primarily U.S. audience. It was the second\
+  \ of two Burnett novels among the Top 100, with The Secret Garden number 15.\n From\
+  \ Wikipedia (CC BY-SA)."
 gutenberg_bookshelf:
-- Best Books Ever Listings
-- Banned Books from Anne Haight's list
-gutenberg_issued: '2004-06-29'
+- School Stories
+- Children's Literature
+gutenberg_issued: '1994-07-01'
 gutenberg_type: Text
 identifiers:
-  gutenberg: '76'
-  wikidata: Q215410
+  gutenberg: '146'
+  wikidata: Q10483376
 language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- !lcsh 'Male friendship -- Fiction'
-- !lcsh 'Finn, Huckleberry (Fictitious character) -- Fiction'
-- !lcsh 'Missouri -- Fiction'
-- !lcsh 'Bildungsromans'
-- !lcsh 'Mississippi River -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Boarding schools -- Fiction'
+- !lcsh 'Schools -- Fiction'
 - !lcc 'PS'
-- !lcsh 'Humorous stories'
-- !lcsh 'Runaway children -- Fiction'
-- !lcsh 'Fugitive slaves -- Fiction'
-- !lcsh 'Adventure stories'
-- !lcsh 'Race relations -- Fiction'
-- !lcsh 'Boys -- Fiction'
 - GITenberg
-title: Adventures of Huckleberry Finn
-url: http://www.gutenberg.org/ebooks/76
+title: "A Little Princess\r\nBeing the whole story of Sara Crewe now told for the\
+  \ first time"
+url: http://www.gutenberg.org/ebooks/146
 wikipedia:
-- https://fi.wikipedia.org/wiki/Huckleberry_Finnin_seikkailut
-- https://eo.wikipedia.org/wiki/La_Aventuroj_de_Huckleberry_Finn
-- https://pa.wikipedia.org/wiki/%E0%A8%B9%E0%A9%B1%E0%A8%95%E0%A8%B2%E0%A8%AC%E0%A8%B0%E0%A9%80_%E0%A8%AB%E0%A8%BC%E0%A8%BF%E0%A8%A8_%E0%A8%A6%E0%A9%87_%E0%A8%95%E0%A8%BE%E0%A8%B0%E0%A8%A8%E0%A8%BE%E0%A8%AE%E0%A9%87
-- https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%B8_%D0%93%D0%B5%D0%BA%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%80%D1%96_%D0%A4%D1%96%D0%BD%D0%BD%D0%B0
-- https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%D9%87%D8%A7%DB%8C_%D9%87%D8%A7%DA%A9%D9%84%D8%A8%D8%B1%DB%8C_%D9%81%DB%8C%D9%86
-- https://als.wikipedia.org/wiki/Die_Abenteuer_des_Huckleberry_Finn
-- https://vi.wikipedia.org/wiki/Nh%E1%BB%AFng_cu%E1%BB%99c_phi%C3%AAu_l%C6%B0u_c%E1%BB%A7a_Huckleberry_Finn
-- https://lt.wikipedia.org/wiki/Haklberio_Fino_nuotykiai
-- https://pl.wikisource.org/wiki/Przygody_Huck%E2%80%99a
-- https://ms.wikipedia.org/wiki/Pengembaraan_Huckleberry_Finn
-- https://kk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BA%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%80%D0%B8_%D0%A4%D0%B8%D0%BD%D0%BD%D1%96%D2%A3_%D0%B1%D0%B0%D1%81%D1%8B%D0%BD%D0%B0%D0%BD_%D0%BA%D0%B5%D1%88%D0%BA%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%96
-- https://gl.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn
-- https://bs.wikiquote.org/wiki/Do%C5%BEivljaji_Huckleberry_Finna
-- https://pl.wikiquote.org/wiki/Przygody_Hucka
-- https://az.wikipedia.org/wiki/Heklberri_Finnin_mac%C9%99ralar%C4%B1
-- https://qu.wikipedia.org/wiki/Huckleberry_Finn
-- https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%AF%E3%83%AB%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%B3%E3%81%AE%E5%86%92%E9%99%BA
-- https://pt.wikipedia.org/wiki/As_Aventuras_de_Huckleberry_Finn
-- https://es.wikipedia.org/wiki/Las_aventuras_de_Huckleberry_Finn
-- https://sco.wikipedia.org/wiki/Adventures_o_Huckleberry_Finn
-- https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn
-- https://hu.wikiquote.org/wiki/Huckleberry_Finn
-- https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D0%B5%D0%BA%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%80%D0%B8_%D0%A4%D0%B8%D0%BD%D0%BD%D0%B0
-- https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A6%AD%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%85%E0%A6%AB_%E0%A6%B9%E0%A6%BE%E0%A6%95%E0%A7%8D%E2%80%8C%E0%A6%B2%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A6%BF_%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D
-- https://ro.wikipedia.org/wiki/Aventurile_lui_Huckleberry_Finn
-- https://ko.wikipedia.org/wiki/%ED%97%88%ED%81%B4%EB%B2%A0%EB%A6%AC_%ED%95%80%EC%9D%98_%EB%AA%A8%ED%97%98
-- https://fr.wikipedia.org/wiki/Les_Aventures_de_Huckleberry_Finn
-- https://sh.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn
-- https://zh.wikipedia.org/wiki/%E9%A0%91%E7%AB%A5%E6%AD%B7%E9%9A%AA%E8%A8%98
-- https://pl.wikipedia.org/wiki/Przygody_Hucka
-- https://hu.wikipedia.org/wiki/Huckleberry_Finn
-- https://simple.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn
-- https://sv.wikipedia.org/wiki/Huckleberry_Finns_%C3%A4ventyr
-- https://da.wikipedia.org/wiki/Huckleberry_Finn
-- https://is.wikipedia.org/wiki/Stikilberja-Finnur
-- https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%94%E1%83%99%E1%83%9A%E1%83%91%E1%83%94%E1%83%A0%E1%83%98_%E1%83%A4%E1%83%98%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%97%E1%83%90%E1%83%95%E1%83%92%E1%83%90%E1%83%93%E1%83%90%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98
-- https://ar.wikipedia.org/wiki/%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A7%D8%AA_%D9%87%D9%83%D9%84%D8%A8%D9%8A%D8%B1%D9%8A_%D9%81%D9%8A%D9%86
-- https://nl.wikipedia.org/wiki/De_lotgevallen_van_Huckleberry_Finn
-- https://cs.wikipedia.org/wiki/Dobrodru%C5%BEstv%C3%AD_Huckleberryho_Finna
-- https://de.wikipedia.org/wiki/Die_Abenteuer_des_Huckleberry_Finn
-- https://lv.wikipedia.org/wiki/Haklberija_Fina_piedz%C4%ABvojumi
-- https://eu.wikipedia.org/wiki/Huckleberry_Finn-en_abenturak
-- https://hy.wikipedia.org/wiki/%D5%80%D5%A5%D6%84%D5%AC%D5%A2%D5%A5%D6%80%D5%AB_%D5%96%D5%AB%D5%B6%D5%AB_%D5%A1%D6%80%D5%AF%D5%A1%D5%AE%D5%B6%D5%A5%D6%80%D5%A8
-- https://it.wikipedia.org/wiki/Le_avventure_di_Huckleberry_Finn
-- https://no.wikipedia.org/wiki/Huckleberry_Finn
-- https://hr.wikipedia.org/wiki/Pustolovine_Huckleberryja_Finna
-- https://ca.wikipedia.org/wiki/Les_aventures_de_Huckleberry_Finn
-- https://tr.wikipedia.org/wiki/Huckleberry_Finn%27in_Maceralar%C4%B1
-- https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%A4%D7%AA%D7%A7%D7%90%D7%95%D7%AA%D7%99%D7%95_%D7%A9%D7%9C_%D7%94%D7%90%D7%A7%D7%9C%D7%91%D7%A8%D7%99_%D7%A4%D7%99%D7%9F
+- https://et.wikipedia.org/wiki/V%C3%A4ike_printsess
+- https://fr.wikipedia.org/wiki/La_Petite_Princesse_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9
+- https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%85%AC%E4%B8%BB
+- https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%85%AC%E5%A5%B3
+- https://sv.wikipedia.org/wiki/En_liten_prinsessa
+- https://de.wikipedia.org/wiki/Sara,_die_kleine_Prinzessin
+- https://pl.wikipedia.org/wiki/Ma%C5%82a_ksi%C4%99%C5%BCniczka
+- https://simple.wikipedia.org/wiki/A_Little_Princess
+- https://en.wikipedia.org/wiki/A_Little_Princess
+- https://pl.wikisource.org/wiki/Co_si%C4%99_sta%C5%82o_na_pensyi%3F
+- https://it.wikipedia.org/wiki/La_piccola_principessa
+- https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD,_1905)
+- https://sh.wikipedia.org/wiki/A_Little_Princess
+- https://ro.wikipedia.org/wiki/Mica_Prin%C8%9Bes%C4%83
+- https://ko.wikipedia.org/wiki/%EC%86%8C%EA%B3%B5%EB%85%80
+- https://he.wikipedia.org/wiki/%D7%A0%D7%A1%D7%99%D7%9B%D7%94_%D7%A7%D7%98%D7%A0%D7%94_(%D7%A1%D7%A4%D7%A8)
